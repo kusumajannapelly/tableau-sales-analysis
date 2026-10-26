@@ -29,7 +29,10 @@ The Region and Category filters apply to every chart on the dashboard,
 including the KPI cards, the trend, the category chart and the map.
 
 ## Dashboard Preview
-![Sales Dashboard](images/dashboard.png)
+   ![Sales Dashboard](dashboard.png)
+      Filtered view (Region: Central, Category: Office Supplies):
+
+   ![Filtered Dashboard](dashboard1.png)
 
 ## Key Insights
 - Total sales are 586,698, total profit is 40,902 across 500 orders, with 
